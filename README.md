@@ -33,3 +33,5 @@ pip install opencv-python tensorflow keras numpy
 
 link to download model: https://drive.google.com/file/d/1GS7LPoWoE7a3O8hi6cz59Szlko-TKEYW/view?usp=sharing
 
+link to colab for training the model: https://colab.research.google.com/drive/1kS9-Yyz8JSqMI3NwRjR8kZtA5r8sOZ2B?usp=sharing
+
