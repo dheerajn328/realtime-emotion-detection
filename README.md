@@ -30,3 +30,6 @@ A deep learning based real-time emotion detection system using Python, OpenCV, a
 
 pip install opencv-python tensorflow keras numpy
 
+
+link to download model: https://drive.google.com/file/d/1GS7LPoWoE7a3O8hi6cz59Szlko-TKEYW/view?usp=sharing
+
